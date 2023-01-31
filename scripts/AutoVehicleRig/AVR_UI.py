@@ -422,6 +422,3 @@ class AVR(MayaQWidgetDockableMixin, QtWidgets.QWidget):
             avr.create_controllers_6w(vb_name, wfl_name, wfr_name, wml_name, wmr_name, wbl_name, wbr_name, prefix, suffix)
 
         cmds.undoInfo(closeChunk=True)
-
-
-ui = AVR()
