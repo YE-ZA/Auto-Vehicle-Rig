@@ -8,4 +8,4 @@ the demo video link is here: https://vimeo.com/635027418
 
 ---
 
-Installation: Copy the "script" and "prefs" folders to C:\Users\<Username>\Documents\maya\<version> folder
+**Installation: Copy the "script" and "prefs" folders to C:\Users\<Username>\Documents\maya\<version> folder.**
