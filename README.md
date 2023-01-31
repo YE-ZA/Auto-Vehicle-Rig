@@ -10,7 +10,7 @@ the demo video link is here: https://vimeo.com/635027418
 
 **Installation:** Copy the "scripts" and "prefs" folders to C:\Users\<Username>\Documents\maya\<version> folder.
 
-Then open maya script editor and run code below in a "python" tab:
+Then open maya script editor and run the code below in a "python" tab:
 ```
 from importlib import reload
 import AutoVehicleRig.AVR_UI as ui
